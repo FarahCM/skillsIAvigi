@@ -9,8 +9,6 @@ Curso ministrado por Priscila Normando por meio da disciplina "Comunicação em 
 
 - **Data/horário:** 19 de Março (início módulo ) a 18 de abril de 2026;
 
-- **Faça sua inscrição [Análise de Dados de Saúde e Clima: Estatísticas para Políticas Públicas](https://campusvirtual.fiocruz.br/gestordecursos/hotsite/dados-saude-clima/oferecidas-25-vagas/9584)
-
 ## Materiais
 
 ### Site do curso - onde está o seu material de estudos
